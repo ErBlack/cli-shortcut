@@ -1,0 +1,19 @@
+{
+  "name": "cli-shortcut",
+  "version": "1.0.0",
+  "description": "cli scortcut creation tool",
+  "main": "index.js",
+  "bin": {
+    "sc": "./bin/shortcut.js"
+  },
+  "keywords": [
+    "cli",
+    "shortcut",
+    "alias"
+  ],
+  "author": "ErBlack",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^4.0.0"
+  }
+}
